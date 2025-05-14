@@ -23,7 +23,7 @@ function Layout() {
             borderBottom: "1px solid #ddd",
           }}
         >
-          <div style={{ fontWeight: "bold", fontSize: "1.2rem" }}>My News Site</div>
+          <div style={{ fontWeight: "bold", fontSize: "1.2rem" }}>НОВОСТИ</div>
           <button
             onClick={toggleSidebar}
             style={{

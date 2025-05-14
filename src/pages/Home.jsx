@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className="home">
       <section className="hero">
-        <h1 className="hero-title">Добро пожаловать в NewsSite</h1>
-        <p className="hero-subtitle">Читайте последние новости и аналитику в удобном формате</p>
+        <h1 className="hero-title">Добро пожаловать </h1>
+        <p className="hero-subtitle">Читайте последние новости</p>
       </section>
 
       <section className="news-section">
